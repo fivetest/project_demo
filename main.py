@@ -4,7 +4,7 @@
 import time
 import unittest
 import HTMLTestRunner
-from testcases.bugfree_admin_login_logout_chrome import BugfreeAdminLoginLogout 
+from testcases.bugfree_admin_login_logout_chrome import BugfreeAdminLoginLogout
 
 
 if __name__ == '__main__':
