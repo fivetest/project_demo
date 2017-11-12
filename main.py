@@ -7,7 +7,7 @@ from testcases.bugfree_admin_login_logout_chrome import BugfreeAdminLoginLogout
 
 
 if __name__ == '__main__':
-    suite = unittest.TestSuite()
+    #suite = unittest.TestSuite()
     loader = unittest.TestLoader()
     suite.addTests(loader.loadTestsFromTestCase(BugfreeAdminLoginLogout))
 
