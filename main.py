@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# author: samren
 import time
 import unittest
 import HTMLTestRunner
